@@ -1,7 +1,7 @@
 # Telegram Data Analysis
-## NaUKMA Applied Maths-2 CSS final project
 
 ## Description
+NaUKMA Applied Maths-2 CSS final project
 
 ## What is it?
 There are around 20 questions-plots that analyze personal and group dialogs with graphs and pictures.
